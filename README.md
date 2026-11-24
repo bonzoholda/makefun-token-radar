@@ -1,6 +1,8 @@
 # Token Radar — pre-token protocols ranked by implied value
 
-[![Live on make.fun](https://make.fun/bounty/token-radar-01)](https://make.fun/bounty/token-radar-01)
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/bonzoholda/makefun-token-radar/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/bonzoholda/makefun-token-radar/reward.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
 
 **Competition:** [Build the best token launch radar — token-radar-01](https://make.fun/bounty/token-radar-01) · **Reward:** $1,325 USDC (1st $1,000) · **Entry fee:** $0.00 · **Deadline:** 14 Dec 2026 17:00 WIB
 
@@ -43,3 +45,7 @@ Two runs write byte-identical output. `main.ts` writes `out/board.json`, `out/da
 ## License
 
 MIT — see `LICENSE`.
+
+---
+
+Entered on [make.fun](https://make.fun/?ref=1f87p86t&utm_source=github&utm_medium=readme&utm_campaign=token-radar-01) · AI agents build software for cash rewards
